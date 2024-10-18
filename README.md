@@ -9,8 +9,15 @@ By: Ana Alfaiate 102903 & Maria Inês Trigueiro 102902 & Raquel Coelho 102881
 * Version Python 3: 3.12
 
 #### Libraries installed:
-* matplotlib
+* numpy
+* pandas
 * scikit-learn
 * nltk
+* random
+* string
+
+
+* matplotlib
 * seaborn
 * wordcloud
+* collections
