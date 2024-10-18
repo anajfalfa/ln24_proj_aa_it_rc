@@ -15,6 +15,8 @@ By: Ana Alfaiate 102903 & Maria Inês Trigueiro 102902 & Raquel Coelho 102881
 * nltk
 * random
 * string
+* joblib
+* os
 
 
 * matplotlib
